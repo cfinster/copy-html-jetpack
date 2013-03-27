@@ -1,7 +1,7 @@
 {
   "description": "Adds a 'Copy HTML' context menu item which allows you to copy the html for the selected content.",
   "author": "Erik Vold",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "fullName": "Copy HTML",
   "id": "jid0-lqtsBMO4PkjAOFcCt6zDcWsAXCU",
   "name": "copy-html",
